@@ -1,0 +1,11 @@
+{
+  "name": "solid-notification-js-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "description": "Demo project demonstrating SOLID principles in JavaScript",
+  "author": "Ilya Yudin",
+  "license": "MIT"
+}
